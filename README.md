@@ -101,4 +101,4 @@ notice: >-
   <a href="https://medium.com/afterschool/afterschool-ico-announcement-4c36b5ee45da">Read the announcement.</a>
 symbol: AST
 ```
-Notice may cointain HTML.
+Notice may contain HTML.
