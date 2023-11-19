@@ -1,4 +1,5 @@
-![Confluence DEX logo](/assets/logo-compressed.png){width=250px}
+<img src="https://github.com/confluence-exchange/tokenbase/raw/main/assets/logo-compressed.png" alt="Confluence DEX logo" width="250"/>
+
 # Confluence DEX Tokenbase
 
 [![Build Status](https://travis-ci.org/confluence-exchange/tokenbase.svg?branch=master)](https://travis-ci.org/confluence-exchange/tokenbase) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/confluence-exchange/tokenbase/issues)
